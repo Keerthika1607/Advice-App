@@ -8,7 +8,6 @@ import AdviceApp from './Components/Advice';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <>
-    {/* <App /> */}
     <AdviceApp />
   </>
 );
